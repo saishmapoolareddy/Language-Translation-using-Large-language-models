@@ -1,0 +1,14 @@
+{
+    "convert_eng_to_lang": false,
+    "epoch_count": 20,
+    "learning_rate": 0.001,
+    "max_sentence_length": 25,
+    "hidden_size": 1024,
+    "batch_size": 128,
+    "from_lang": "fra",
+    "use_pkl_data": true,
+    "rnn_type": "gru",
+    "loss_type": "nll",
+    "optimizer": "adam",
+    "use_attention": true
+}

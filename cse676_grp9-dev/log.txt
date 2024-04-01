@@ -1,0 +1,3 @@
+Lang from:fra Lang to:eng
+Attention:True
+RNN type:gru
